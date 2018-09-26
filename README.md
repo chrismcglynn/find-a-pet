@@ -22,5 +22,5 @@ Screenshots:
 Initial search:
 ![](assets/img/find-a-pet1.png)
 
-Pets retrieved
-![](assets/img/find-a-pet2.png)
+Once pets are retrieved
+![](assets/img/find-a-pet3.png)
