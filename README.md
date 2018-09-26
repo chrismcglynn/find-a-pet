@@ -20,7 +20,7 @@ parcel build
 Screenshots:
 
 Initial search:
-![](images/find-a-pet1.png)
+![](assets/images/find-a-pet1.png)
 
 Pets retrieved
-![](images/find-a-pet2.png)
+![](assets/images/find-a-pet2.png)
